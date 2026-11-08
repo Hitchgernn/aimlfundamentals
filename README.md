@@ -1,0 +1,3 @@
+# First of everythig 
+
+this repo is just an aftermath of my tediousness, but dont worry the references come from reliable platform such as Coursera, IBM, GfG, books, and so on. the only book i can share to you guys is "Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong (published by Cambridge University Press)" so thank you for them for making this book accessible and completely free to use. btw i also use ai to help me studying and write some of the notebooks or codes. 
